@@ -2,3 +2,4 @@
 CS50x 2026 coursework and C programming practice
 
 week 1 : one gap , many mistakes
+week 2: room for improvement
