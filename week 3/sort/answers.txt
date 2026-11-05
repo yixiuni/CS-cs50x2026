@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It is much faster on sorted input than on reversed input. Bubble sort can stop after one pass with no swaps when the input is already sorted.
+
+sort2 uses: Merge sort
+
+How do you know?: It is fast on both random and reversed input, and its running time grows much more slowly as the input size increases. This is consistent with O(n log n) time complexity.
+
+sort3 uses: Selection sort
+
+How do you know?: Its running time is similar for sorted, random, and reversed input. Selection sort always scans the remaining elements to find the minimum, so it takes O(n^2) time even on sorted input.
